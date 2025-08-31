@@ -1,6 +1,6 @@
 # 🔍 Port Scanner
 
-> **Network Security Tool** | **JavaScript** | **Node.js**
+> **Network Security Tool** | **TypeScript** | **Node.js**
 
 A powerful and efficient port scanner that automatically discovers devices and services on your local network. Perfect for security professionals, network administrators, and anyone who needs to locate and access network devices.
 
